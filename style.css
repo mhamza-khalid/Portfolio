@@ -273,7 +273,7 @@ header{
 }
 
 .footer{
-    background-color: #3B4050;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
@@ -395,6 +395,6 @@ header{
         height: 30px;
     }
     .footer{
-        padding: 2rem 0;
+        padding: 2rem 0 0.8rem 0;
     }
 }
