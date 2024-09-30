@@ -1,4 +1,4 @@
 # Portfolio
 
 My Webpage!
-Live --> https://mhamza-khalid.github.io/Portfolio/
+Live --> https://hamzadevo.netlify.app/
