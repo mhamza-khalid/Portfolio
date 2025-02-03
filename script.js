@@ -12,3 +12,8 @@ linkArray.forEach(item => {
         menu.classList.toggle('show--menu')
     })
 });
+
+
+document.addEventListener("DOMContentLoaded", function () {
+    document.body.style.zoom = "80%";
+});
